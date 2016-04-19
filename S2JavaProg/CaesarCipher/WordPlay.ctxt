@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=ch
+comment0.target=boolean\ isVowel(java.lang.Character)
+comment1.params=phrase\ ch
+comment1.target=java.lang.String\ replaceVowels(java.lang.String,\ java.lang.Character)
+comment2.params=
+comment2.target=void\ testReplaceVowels()
+comment3.params=phrase\ ch
+comment3.target=java.lang.String\ emphasize(java.lang.String,\ java.lang.Character)
+comment4.params=
+comment4.target=void\ tsetEmphasize()
+numComments=5
